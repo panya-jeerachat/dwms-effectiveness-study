@@ -13,8 +13,8 @@ This study evaluates the effectiveness of the Digital Workload Management Inform
 - Figures and dashboards
 - Research-related documentation
 
-## Citation
-If you use this work, please cite the published article.
+## Journal Link
+https://so04.tci-thaijo.org/index.php/jil/article/view/287580/193010
 
 ## Author
 Faculty of Engineering, Mahasarakham University
